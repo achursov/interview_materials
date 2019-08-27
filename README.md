@@ -2,12 +2,14 @@
 
 
 ## Coding Platforms
-https://leetcode.com/ <br />
-https://www.hackerrank.com <br />
-https://codefights.com <br />
-https://www.interviewbit.com <br />
+- https://leetcode.com
+- https://www.hackerrank.com
+- https://codefights.com
+- https://www.interviewbit.com
 
+## Interview Platforms
+- https://triplebyte.com
 
 ## System Design
-http://blog.gainlo.co/index.php/category/system-design-interview-questions/ <br />
-https://www.infoq.com/presentations/Twitter-Timeline-Scalability
+- http://blog.gainlo.co/index.php/category/system-design-interview-questions
+- https://www.infoq.com/presentations/Twitter-Timeline-Scalability
